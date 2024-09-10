@@ -1,20 +1,43 @@
 # security_manager_kairos
 
-## Antes | Depois
+## Tecnologias Utilizadas
 
-![alt text](assets/imagens/antes-01.png)
-![alt text](assets/imagens/antes-02.png)
-
-![alt text](assets/imagens/depois-01.png)
-![alt text](assets/imagens/depois-02.png)
-![alt text](assets/imagens/depois-03.png)
-![alt text](assets/imagens/depois-04.png)
-![alt text](assets/imagens/depois-05.png)
-
+- Python | Streamlit | OpenCV | Pandas | Folium | SQL | PostgreSQL
 
 ## Descrição
 
 Este sistema é um Sistema de Gerenciamento de Câmeras de Segurança desenvolvido em Python usando Streamlit. Ele permite a visualização, verificação e gerenciamento de câmeras e DVRs. A aplicação também oferece um dashboard para monitoramento situacional das câmeras, além de permitir o preenchimento de relatórios diários de funcionamento.
+
+## Antes 
+
+Imagens de como eram armazenadas as informações antes do novo sistema:
+
+- Dashboard em excel:
+![alt text](assets/imagens/antes-01.png)
+
+- Dados armazenados em tabelas:
+![alt text](assets/imagens/antes-02.png)
+
+# Depois
+
+- Página Inicial do Sistema Atual
+![alt text](assets/imagens/depois-05.png)
+
+- Página de preenchimento do relatório:
+![alt text](assets/imagens/depois-03.png)
+
+- Novo modelo do dashboard:
+![alt text](assets/imagens/depois-01.png)
+![alt text](assets/imagens/depois-02.png)
+
+- Verificação de funcionamento das câmeras através dos IPs:
+![alt text](assets/imagens/depois-04.png)
+
+- Banco de dados:
+  - Tabelas:
+  ![alt text](assets/imagens/tabelas-01.png)
+  ![alt text](assets/imagens/tabelas-02.png)
+  ![alt text](assets/imagens/tabelas-03.png)
 
 ## Funcionalidades
 
@@ -35,7 +58,3 @@ camera-management-system/
 ├── .env                      # Arquivo de configuração de variáveis de ambiente
 ├── requirements.txt          # Arquivo de dependências
 └── README.md                 # Documentação do projeto
-
-## Tecnologias Utilizadas
-
-- Python | Streamlit | OpenCV | Pandas | Folium | SQL | PostgreSQL
