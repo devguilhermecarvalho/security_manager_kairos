@@ -1,14 +1,14 @@
-python-dotenv==1.0.0
-requests==2.31.0
+requests
+pandas
 numpy
 streamlit
 streamlit_folium
 streamlit_option_menu
-streamlit_extras
 psycopg2-binary
 matplotlib
 folium
 opencv-python
+Pillow
 plotly
 openpyxl
 python-dotenv

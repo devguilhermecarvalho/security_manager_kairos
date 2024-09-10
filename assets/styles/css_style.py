@@ -1,3 +1,5 @@
+# assets/styles/css_style.py
+
 import streamlit as st
 
 def apply_css():

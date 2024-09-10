@@ -1,3 +1,5 @@
+# custom_pages/dashboard/dashboard_cameras.py
+
 import pandas as pd
 import folium
 from streamlit_folium import st_folium

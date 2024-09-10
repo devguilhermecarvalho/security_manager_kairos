@@ -1,3 +1,5 @@
+# assets/plugins/mapa_completo_cameras.py
+
 import streamlit as st
 import folium
 import pandas as pd

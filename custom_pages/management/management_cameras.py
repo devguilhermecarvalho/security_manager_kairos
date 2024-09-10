@@ -1,3 +1,5 @@
+# custom_pages/management/management_cameras.py
+
 import streamlit as st
 import pandas as pd
 from assets.styles.css_style import apply_css

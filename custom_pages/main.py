@@ -1,3 +1,5 @@
+# custom_pages/main.py
+
 import streamlit as st
 from assets.styles.css_style import apply_css
 from assets.plugins.mapa_completo_cameras import mapa_completo_das_cameras

@@ -1,3 +1,5 @@
+# database/queries.py
+
 import pandas as pd
 from database.connect_db import ConnectDataBase
 
