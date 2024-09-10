@@ -8,7 +8,7 @@
 
 Este sistema é um Sistema de Gerenciamento de Câmeras de Segurança desenvolvido em Python usando Streamlit. Ele permite a visualização, verificação e gerenciamento de câmeras e DVRs. A aplicação também oferece um dashboard para monitoramento situacional das câmeras, além de permitir o preenchimento de relatórios diários de funcionamento.
 
-## Antes 
+## Antes
 
 Imagens de como eram armazenadas as informações antes do novo sistema:
 
@@ -18,7 +18,7 @@ Imagens de como eram armazenadas as informações antes do novo sistema:
 - Dados armazenados em tabelas:
 ![alt text](assets/imagens/antes-02.png)
 
-# Depois
+## Depois
 
 - Página Inicial do Sistema Atual
 ![alt text](assets/imagens/depois-05.png)
@@ -34,10 +34,10 @@ Imagens de como eram armazenadas as informações antes do novo sistema:
 ![alt text](assets/imagens/depois-04.png)
 
 - Banco de dados:
-  - Tabelas:
-  ![alt text](assets/imagens/tabelas-01.png)
-  ![alt text](assets/imagens/tabelas-02.png)
-  ![alt text](assets/imagens/tabelas-03.png)
+Tabelas:
+![alt text](assets/imagens/tabelas-01.png)
+![alt text](assets/imagens/tabelas-02.png)
+![alt text](assets/imagens/tabelas-03.png)
 
 ## Funcionalidades
 
