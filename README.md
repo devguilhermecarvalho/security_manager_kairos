@@ -55,15 +55,16 @@ camera-management-system/
 ├── app.py                    # Arquivo principal da aplicação, responsável por iniciar a interface do Streamlit
 │
 ├── custom_pages/              # Contém as páginas customizadas do sistema, com layout e funcionalidades específicas
-│   ├── page1.py               # Exemplo de página customizada
-│   └── page2.py               # Exemplo de outra página
+│   ├── dashboard              # Páginas referente a dashboardas
+│   ├── forms                  # Formulários de preenchimento
+│   ├── management             # Gerenciamento de informações
 │
 ├── database/                  # Módulo para gerenciamento de conexões e consultas ao banco de dados
 │   ├── connect_db.py          # Script para conectar ao banco de dados
 │   └── queries.py             # Consultas SQL usadas no sistema
 │
 ├── assets/                    # Diretório para arquivos de CSS e plugins adicionais para customização visual
-│   ├── styles.css             # Arquivo de estilos CSS customizados
+│   ├── styles/                # Arquivo de estilos CSS customizados
 │   └── plugins/               # Plugins adicionais utilizados pela aplicação
 │
 ├── .env                       # Arquivo de configuração com variáveis de ambiente (credenciais e configurações sensíveis)
