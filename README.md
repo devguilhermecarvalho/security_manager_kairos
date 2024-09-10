@@ -52,17 +52,31 @@ Tabelas:
 camera-management-system
 
 │
+
 - Arquivo principal da aplicação
+
 ├── app.py                  
+
 - Páginas customizadas do sistema
+
 ├── custom_pages/               
+
 - Conexão e consultas ao banco de dados
+
 ├── database/                   
+
 - CSS e plugins adicionais
+
 ├── assets/                     
+
 - Arquivo de configuração de variáveis de ambiente
+
 ├── .env                        
+
 - Arquivo de dependências
+
 ├── requirements.txt            
+
 - Documentação do projeto
+
 └── README.md                   
