@@ -49,34 +49,25 @@ Tabelas:
 
 ## Estrutura do Projeto
 
-camera-management-system
-
+```bash
+camera-management-system/
 │
-
-- Arquivo principal da aplicação
-
-├── app.py                  
-
-- Páginas customizadas do sistema
-
-├── custom_pages/               
-
-- Conexão e consultas ao banco de dados
-
-├── database/                   
-
-- CSS e plugins adicionais
-
-├── assets/                     
-
-- Arquivo de configuração de variáveis de ambiente
-
-├── .env                        
-
-- Arquivo de dependências
-
-├── requirements.txt            
-
-- Documentação do projeto
-
-└── README.md                   
+├── app.py                    # Arquivo principal da aplicação, responsável por iniciar a interface do Streamlit
+│
+├── custom_pages/              # Contém as páginas customizadas do sistema, com layout e funcionalidades específicas
+│   ├── page1.py               # Exemplo de página customizada
+│   └── page2.py               # Exemplo de outra página
+│
+├── database/                  # Módulo para gerenciamento de conexões e consultas ao banco de dados
+│   ├── connect_db.py          # Script para conectar ao banco de dados
+│   └── queries.py             # Consultas SQL usadas no sistema
+│
+├── assets/                    # Diretório para arquivos de CSS e plugins adicionais para customização visual
+│   ├── styles.css             # Arquivo de estilos CSS customizados
+│   └── plugins/               # Plugins adicionais utilizados pela aplicação
+│
+├── .env                       # Arquivo de configuração com variáveis de ambiente (credenciais e configurações sensíveis)
+│
+├── requirements.txt           # Lista de dependências necessárias para rodar o projeto
+│
+└── README.md                  # Documentação do projeto
