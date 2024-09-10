@@ -1,0 +1,14 @@
+python-dotenv==1.0.0
+requests==2.31.0
+numpy
+streamlit
+streamlit_folium
+streamlit_option_menu
+streamlit_extras
+psycopg2-binary
+matplotlib
+folium
+opencv-python
+plotly
+openpyxl
+python-dotenv
