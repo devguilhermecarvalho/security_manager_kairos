@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Câmeras de Segurança
 
-Este foi desenvolvido para melhorar o gerenciamento de câmeras e sensores de segunça do estaleiro atráves de dados disponíves em APIs. Ele permite a visualização, verificação e gerenciamento de câmeras e DVRs, permitindo a verificação de funcionamento e qualidade. A aplicação também oferece um dashboard para monitoramento situacional das câmeras, além de permitir o preenchimento de relatórios diários.
+Este projeto foi desenvolvido para melhorar o gerenciamento de câmeras e sensores de segunça do estaleiro atráves de dados disponíves em APIs. Ele permite a visualização, verificação e gerenciamento de câmeras e DVRs, permitindo a verificação de funcionamento e qualidade. A aplicação também oferece um dashboard para monitoramento situacional das câmeras, além de permitir o preenchimento de relatórios diários.
 
 ## Tecnologias Utilizadas
 
